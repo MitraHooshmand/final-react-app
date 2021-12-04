@@ -6,9 +6,7 @@ function App() {
       hello
       <p>
         coded by mitra{" "}
-        <a href="https://github.com/mita4824/final-react-app" target="_blank">
-          open source
-        </a>
+        <a href="https://github.com/mita4824/final-react-app">open source</a>
       </p>
     </div>
   );
